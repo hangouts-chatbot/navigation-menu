@@ -62,3 +62,5 @@ const navigation = new Navigation(graph);
 navigation.getCardMessage("home"); // => this will return the card object which you can send back to user to render interective card. 
 
 
+### Check Tests to view full usecases 
+https://github.com/hangouts-chatbot/navigation-menu/blob/main/__tests__/navigation-spec.ts
